@@ -16,9 +16,6 @@ cd D-NeRF
 conda create -n dnerf python=3.6
 conda activate dnerf
 pip install -r requirements.txt
-cd torchsearchsorted
-pip install .
-cd ..
 ```
 
 ## Download Pre-trained Weights
